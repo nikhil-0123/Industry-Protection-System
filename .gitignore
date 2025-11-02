@@ -1,0 +1,40 @@
+# Python/Flask
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+instance/
+*.sqlite3
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Android / Gradle
+.gradle/
+/build/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Android Studio
+.externalNativeBuild
+/app/.cxx/
+
+# Java
+*.class
+
+# Arduino / PlatformIO
+/.pio/
+/.pioenvs/
+
+# logs
+*.log
