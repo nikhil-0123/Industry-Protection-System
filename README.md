@@ -138,6 +138,7 @@ Embed images in this `README.md` with relative paths, for example:
 
 ```markdown
 ![Dashboard](./images/dashboard.jpg)
+Dashboard
 ![Daily Report](./images/daily_report.jpg)
 ```
 
