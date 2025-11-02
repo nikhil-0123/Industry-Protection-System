@@ -126,13 +126,12 @@ If you'd like, I can also:
  
 ## Project images
 
-I have added a dedicated folder for project images: `assets/images/`.
+Project images are in the repository `images/` folder (root of this repo). The actual files currently present are:
 
-
-- `login_page.png` — screenshot of the login screen
-- `dashboard.png` — main dashboard showing live readings
-- `daily_report.png` — daily report screen
-- `architecture-diagram.png` — system architecture diagram
+- `login_page.jpg` — screenshot of the login screen
+- `dashboard.jpg` — main dashboard showing live readings
+- `daily_report.jpg` — daily report screen
+- `architecture-diagram.jpg` — system architecture diagram
 - `ips_iot.png` — photo of the working IoT model
 
 Embed images in this `README.md` with relative paths, for example:
