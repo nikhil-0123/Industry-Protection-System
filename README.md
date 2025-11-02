@@ -128,7 +128,6 @@ If you'd like, I can also:
 
 I have added a dedicated folder for project images: `assets/images/`.
 
-Please upload your five images there using these recommended filenames (PNG or JPG):
 
 - `login_page.png` — screenshot of the login screen
 - `dashboard.png` — main dashboard showing live readings
@@ -139,16 +138,9 @@ Please upload your five images there using these recommended filenames (PNG or J
 Embed images in this `README.md` with relative paths, for example:
 
 ```markdown
-![Login page](assets/images/login_page.png)
-![Dashboard](assets/images/dashboard.png)
+![Dashboard](./images/dashboard.jpg)
+![Daily Report](./images/daily_report.jpg)
 ```
-
-Tips:
-
-- Resize large photos to ~1280px width to keep repo size small.
-- Avoid committing sensitive images that contain private information.
-
-I added `assets/images/README.md` with the same guidance and a `.gitkeep` file so the folder is tracked by git — drop your images there and commit.
 
 ---
 End of README
