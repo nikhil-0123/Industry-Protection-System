@@ -136,11 +136,20 @@ Project images are in the repository `images/` folder (root of this repo). The a
 
 Embed images in this `README.md` with relative paths, for example:
 
-```markdown
-![Dashboard](./images/dashboard.jpg)
-Dashboard
-![Daily Report](./images/daily_report.jpg)
-```
+
+# Assembled Model:
+![Assembled Model](./images/ips_iot.png)  
+**
+
+# Architecture Diagram
+![Architecture Diagram](./images/architecture-diagram.jpg)
+# Dashboard:
+![Dashboard](./images/dashboard.jpg)  
+**
+
+# Daily Report:
+![Daily Report](./images/daily_report.jpg)  
+**
 
 ---
 End of README
